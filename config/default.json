@@ -1,0 +1,7 @@
+{
+    "name": "Leave Management System",
+    "db": "mongodb://localhost/employee_management",
+    "port": "3900",
+    "jwtPrivateKey": "",
+    "authReq": true
+}
