@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "employeeManagement_jwtPrivateKey",
-    "databaseURL": "db_url"
+    "db": "db_url"
 }

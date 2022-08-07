@@ -1,6 +1,6 @@
 {
     "name": "Leave Management System",
-    "db": "databaseURL",
+    "db": "",
     "port": "3900",
     "jwtPrivateKey": "",
     "authReq": true
