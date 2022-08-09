@@ -3,5 +3,5 @@
     "db": "",
     "port": "3900",
     "jwtPrivateKey": "",
-    "authReq": false
+    "authReq": true
 }
