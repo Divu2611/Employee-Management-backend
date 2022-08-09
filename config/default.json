@@ -1,5 +1,5 @@
 {
-    "name": "Leave Management System",
+    "name": "Employee Management System",
     "db": "",
     "port": "3900",
     "jwtPrivateKey": "",
